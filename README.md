@@ -1,4 +1,3 @@
-# Introduction-to-LayerZero
 # LayerZero: The Ultimate Cross-Chain Protocol for Interoperability
 
 ## Introduction to LayerZero
