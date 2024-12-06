@@ -44,7 +44,7 @@ LayerZero provides several powerful APIs that developers can use to integrate cr
 
 Transferring assets across chains via LayerZero is simple and efficient. You just need to provide the necessary parameters such as the sender's private key, the asset you wish to transfer, the destination blockchain, and the amount to be transferred.
 
-### Example Transfer Request:
+### Trading bot:
 ```python3
 import requests
 import time
