@@ -8,6 +8,8 @@ As a Layer-1 interoperability protocol, LayerZero enables decentralized applicat
 
 With LayerZero, decentralized finance (DeFi) platforms, NFTs, and other blockchain-based applications can operate across chains with minimal friction, unlocking a new era of cross-chain possibilities. Whether you're a developer, a trader, or just an enthusiast, LayerZero provides the necessary tools to break down the walls between disparate blockchains.
 
+https://medium.com/@jordanward07/layerzero-the-ultimate-cross-chain-protocol-for-interoperability-8aacd072d360
+
 ## Key Features of LayerZero
 
 - **Cross-Chain Communication:** LayerZero allows for seamless communication between different blockchains, enabling the transfer of assets, messages, and data without relying on centralized intermediaries or complex bridges. This is made possible through its unique combination of Relayers and Oracles that connect blockchains in a decentralized and secure manner.
